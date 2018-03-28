@@ -1,4 +1,4 @@
-# [Gentle guide on how YOLO Object Localization works with Keras](https://www.dlology.com/blog/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-2/)
+# [Gentle guide on how YOLO Object Localization works with Keras](https://heartbeat.fritz.ai/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-2-65fe59ac12d)
 
 Complementary source code for the post.
 Keras+TensorFlow YOLO object Localization implementation guided walk through.
